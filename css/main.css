@@ -2000,4 +2000,5 @@ a.lila, a.lila:hover {
   background-image: url("../assets/images/SM_Website_SP_Cover.png");
   background-size: cover;
   background-repeat: no-repeat;
+  background-origin: content-box;
 }
